@@ -72,7 +72,7 @@ function App() {
       <div className="input-feild">
         <input
           type="text"
-          placeholder="Serach Player"
+          placeholder="Serach by player or country..."
           onChange={(e) => searchPlayers(e)}
         />
         <div className="sort-by-btns">
